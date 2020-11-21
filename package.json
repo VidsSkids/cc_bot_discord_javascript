@@ -1,0 +1,23 @@
+{
+  "name": "carapuce",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VidsSkids/cc_bot_discord_javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VidsSkids/cc_bot_discord_javascript/issues"
+  },
+  "homepage": "https://github.com/VidsSkids/cc_bot_discord_javascript#readme",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "pm2": "^4.5.0"
+  }
+}
