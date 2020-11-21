@@ -3,3 +3,4 @@ const bot = new Discord.Client();
 bot.on("ready", function () {
     console.log("Carapuce est dans les places !");
 });
+bot.login("MON_TOKEN");
